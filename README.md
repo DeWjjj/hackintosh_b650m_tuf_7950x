@@ -12,4 +12,5 @@ WIFI & BLUETOOTH WONT WORK
 
 TIP: IF YOU WANNA USE WIFI&AIRDROP PLEASE COPY THE SPECFIY KEXT TO THE KEXTS FILE AND MODIFY THE CONFIG FILE.
 
+觉得好的点个赞👍，小弟希望收集一些微弱的星星。
 ![image](https://user-images.githubusercontent.com/34545205/236603444-7baf2a06-6fce-45fb-8f09-f1f8930ec183.png)
